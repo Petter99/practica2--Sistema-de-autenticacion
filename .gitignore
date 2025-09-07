@@ -1,0 +1,15 @@
+# Node.js
+node_modules/
+.env
+.DS_Store
+npm-debug.log*
+
+# VS Code
+.vscode/
+
+# Logs
+logs/
+*.log
+
+# OS
+Thumbs.db
