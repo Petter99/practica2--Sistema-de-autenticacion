@@ -25,11 +25,11 @@ practica2/
   ```sh
   npm start
   ```
-- El servidor estará disponible en `http://localhost:3000` (o el puerto configurado).
+- El servidor estará disponible en `http://localhost:3001` (o el puerto configurado).
 
 ## Endpoints
 ### Registro
-- `POST register`
+- `POST /register`
   - Body: `{ "username": "usuario", "email": "correo", "password": "clave" }`
 
 ### Login
